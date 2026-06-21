@@ -1,0 +1,6 @@
+{
+  "name": "Smart Assistant",
+  "description": "A smart assistant application named SAMBI with chat, tasks, security, and game features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
