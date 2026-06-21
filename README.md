@@ -1,4 +1,4 @@
-# SAMBI (Smart Assistant Made By Intelligence)
+# SAMBI (Smart Assistant Made By (SMNB) Intelligence)
 
 **Master your digital world.**
 
